@@ -23,6 +23,8 @@ header.site nav p{display:flex;flex-wrap:wrap;gap:.35rem 1.1rem;justify-content:
 header.site nav a{font-family:var(--mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;color:var(--rule)}
 header.site nav a:hover{color:var(--berry-dk);text-decoration:underline;text-underline-offset:4px}
 header.site nav a[aria-current="page"]{color:var(--berry-dk);text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
+header.site nav a.btn{color:#fff}
+header.site nav a.btn:hover{color:#fff;text-decoration:none;opacity:.88}
 main{max-width:1060px;margin:0 auto;padding:0 1.5rem 3.5rem}
 .lab{font-family:var(--mono);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--berry-dk);margin-bottom:.6rem}
 .hero{background:var(--ink);color:var(--cream);margin:1.5rem 0;padding:clamp(2rem,5.5vw,4rem) clamp(1.2rem,4vw,3.5rem);display:grid;grid-template-columns:minmax(0,1.15fr) minmax(240px,.85fr);gap:2rem 2.5rem;align-items:center;border-radius:16px}

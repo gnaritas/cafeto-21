@@ -1,0 +1,356 @@
+[
+ {
+  "page": "index",
+  "vp": "d1280",
+  "gate": {
+   "vw": 1265,
+   "bad": [],
+   "ovf": [],
+   "maps": [
+    {
+     "frame": "416x312",
+     "parent": "band-map 416"
+    }
+   ],
+   "hs": 1650,
+   "bodysw": 1265
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/00-index-d1280.jpg",
+  "shot_kb": 178,
+  "dims": [
+   1280,
+   1650
+  ]
+ },
+ {
+  "page": "crepes",
+  "vp": "d1280",
+  "gate": {
+   "vw": 1265,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 1659,
+   "bodysw": 1265
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/01-crepes-d1280.jpg",
+  "shot_kb": 151,
+  "dims": [
+   1280,
+   1659
+  ]
+ },
+ {
+  "page": "coffee-matcha",
+  "vp": "d1280",
+  "gate": {
+   "vw": 1265,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 1360,
+   "bodysw": 1265
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/02-coffee-matcha-d1280.jpg",
+  "shot_kb": 137,
+  "dims": [
+   1280,
+   1360
+  ]
+ },
+ {
+  "page": "our-story",
+  "vp": "d1280",
+  "gate": {
+   "vw": 1265,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 2180,
+   "bodysw": 1265
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/03-our-story-d1280.jpg",
+  "shot_kb": 241,
+  "dims": [
+   1280,
+   2180
+  ]
+ },
+ {
+  "page": "visit",
+  "vp": "d1280",
+  "gate": {
+   "vw": 1265,
+   "bad": [],
+   "ovf": [],
+   "maps": [
+    {
+     "frame": "540x405",
+     "parent": "map-tall 540"
+    }
+   ],
+   "hs": 1118,
+   "bodysw": 1265
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/04-visit-d1280.jpg",
+  "shot_kb": 135,
+  "dims": [
+   1280,
+   1118
+  ]
+ },
+ {
+  "page": "contact",
+  "vp": "d1280",
+  "gate": {
+   "vw": 1265,
+   "bad": [],
+   "ovf": [],
+   "maps": [
+    {
+     "frame": "1012x759",
+     "parent": "map-tall 1012"
+    }
+   ],
+   "hs": 1896,
+   "bodysw": 1265
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/05-contact-d1280.jpg",
+  "shot_kb": 90,
+  "dims": [
+   1280,
+   1896
+  ]
+ },
+ {
+  "page": "privacy",
+  "vp": "d1280",
+  "gate": {
+   "vw": 1280,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 900,
+   "bodysw": 1280
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/06-privacy-d1280.jpg",
+  "shot_kb": 67,
+  "dims": [
+   1280,
+   900
+  ]
+ },
+ {
+  "page": "thanks",
+  "vp": "d1280",
+  "gate": {
+   "vw": 1280,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 900,
+   "bodysw": 1280
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/07-thanks-d1280.jpg",
+  "shot_kb": 46,
+  "dims": [
+   1280,
+   900
+  ]
+ },
+ {
+  "page": "404",
+  "vp": "d1280",
+  "gate": {
+   "vw": 1280,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 900,
+   "bodysw": 1280
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/08-404-d1280.jpg",
+  "shot_kb": 46,
+  "dims": [
+   1280,
+   900
+  ]
+ },
+ {
+  "page": "index",
+  "vp": "m390",
+  "gate": {
+   "vw": 390,
+   "bad": [],
+   "ovf": [],
+   "maps": [
+    {
+     "frame": "302x226",
+     "parent": "band-map 302"
+    }
+   ],
+   "hs": 2813,
+   "bodysw": 390
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/00-index-m390.jpg",
+  "shot_kb": 151,
+  "dims": [
+   390,
+   2813
+  ]
+ },
+ {
+  "page": "crepes",
+  "vp": "m390",
+  "gate": {
+   "vw": 390,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 2353,
+   "bodysw": 390
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/01-crepes-m390.jpg",
+  "shot_kb": 124,
+  "dims": [
+   390,
+   2353
+  ]
+ },
+ {
+  "page": "coffee-matcha",
+  "vp": "m390",
+  "gate": {
+   "vw": 390,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 1899,
+   "bodysw": 390
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/02-coffee-matcha-m390.jpg",
+  "shot_kb": 109,
+  "dims": [
+   390,
+   1899
+  ]
+ },
+ {
+  "page": "our-story",
+  "vp": "m390",
+  "gate": {
+   "vw": 390,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 2902,
+   "bodysw": 390
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/03-our-story-m390.jpg",
+  "shot_kb": 198,
+  "dims": [
+   390,
+   2902
+  ]
+ },
+ {
+  "page": "visit",
+  "vp": "m390",
+  "gate": {
+   "vw": 390,
+   "bad": [],
+   "ovf": [],
+   "maps": [
+    {
+     "frame": "355x266",
+     "parent": "map-tall 355"
+    }
+   ],
+   "hs": 1755,
+   "bodysw": 390
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/04-visit-m390.jpg",
+  "shot_kb": 82,
+  "dims": [
+   390,
+   1755
+  ]
+ },
+ {
+  "page": "contact",
+  "vp": "m390",
+  "gate": {
+   "vw": 390,
+   "bad": [],
+   "ovf": [],
+   "maps": [
+    {
+     "frame": "355x266",
+     "parent": "map-tall 355"
+    }
+   ],
+   "hs": 1696,
+   "bodysw": 390
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/05-contact-m390.jpg",
+  "shot_kb": 65,
+  "dims": [
+   390,
+   1696
+  ]
+ },
+ {
+  "page": "privacy",
+  "vp": "m390",
+  "gate": {
+   "vw": 390,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 844,
+   "bodysw": 390
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/06-privacy-m390.jpg",
+  "shot_kb": 51,
+  "dims": [
+   390,
+   850
+  ]
+ },
+ {
+  "page": "thanks",
+  "vp": "m390",
+  "gate": {
+   "vw": 390,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 844,
+   "bodysw": 390
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/07-thanks-m390.jpg",
+  "shot_kb": 36,
+  "dims": [
+   390,
+   850
+  ]
+ },
+ {
+  "page": "404",
+  "vp": "m390",
+  "gate": {
+   "vw": 390,
+   "bad": [],
+   "ovf": [],
+   "maps": [],
+   "hs": 844,
+   "bodysw": 390
+  },
+  "shot": "/Users/rleon/.hermes/projects/websites/sites/cafeto-21/renders/08-404-m390.jpg",
+  "shot_kb": 35,
+  "dims": [
+   390,
+   850
+  ]
+ }
+]
