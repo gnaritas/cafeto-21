@@ -1,0 +1,13 @@
+{
+  "name": "cafeto-21-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cafeto 21 — creperie & coffee bar, Tacoma WA — demo site (websites lane)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22"
+  }
+}
