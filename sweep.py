@@ -70,6 +70,11 @@ async def main():
         sess[0] = (await send("Target.attachToTarget", {"targetId": tid, "flatten": True}))["sessionId"]
         await send("Page.enable")
         await send("Runtime.enable")
+        try:
+            await send("Network.enable")
+            await send("Network.setCacheDisabled", {"cacheDisabled": True})
+        except Exception:
+            pass
         for (w, h, mobile) in VPS:
             await send("Emulation.setDeviceMetricsOverride",
                        {"width": w, "height": h, "deviceScaleFactor": 1, "mobile": mobile})
